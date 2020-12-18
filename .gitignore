@@ -1,0 +1,8 @@
+/.idea/
+/.ipynb_checkpoints/
+/.vscode/
+
+*.zip
+
+# Don't allow Spold documents into the repo
+*.spold
